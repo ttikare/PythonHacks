@@ -19,3 +19,5 @@ managedNodeGroups:
     instanceType: t3.medium
     minSize: 1
     maxSize: 2
+    
+# eksctl create cluster -f <file name>    
